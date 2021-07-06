@@ -31,7 +31,7 @@ p{
     padding-left: 25px;
 }
 .pic img{
-    width: 60%;
+    width: 55%;
     padding-left: 90px;
 }
 .btn{
@@ -44,4 +44,27 @@ p{
     font-weight: 600;
     border-radius: 8px;
 }
-
+.container-2{
+    display: flex;
+    margin-top: 80px
+}
+.myself-2{
+    width: 50%;
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.pic-2 img{
+    width: 65%;
+}
+.btn-2{
+    padding: 10px 40px;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: blanchedalmond;
+    margin-top: 25px;
+    padding-top: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 8px;
+}
